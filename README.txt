@@ -19,3 +19,5 @@ is finished, the user can interactively explore the similarity of the words.
 
 More information about the scripts is provided at https://code.google.com/p/word2vec/
 
+copy from https://code.google.com/archive/p/word2vec/source/default/source
+
